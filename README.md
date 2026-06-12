@@ -2,8 +2,8 @@
 
 > A comprehensive cybersecurity interview preparation repository containing thousands of curated questions, answers, methodologies, attack chains, tool usage examples, and real-world scenarios for AppSec, VAPT, Bug Bounty, Red Teaming, API Security, and Active Directory.
 
-![GitHub stars](https://img.shields.io/github/stars/yourusername/repo-name?style=for-the-badge)
-![GitHub forks](https://img.shields.io/github/forks/yourusername/repo-name?style=for-the-badge)
+![GitHub stars](https://img.shields.io/github/stars/JagdeepSinghCeh/cyber-interview-prep?style=for-the-badge)
+![GitHub forks](https://img.shields.io/github/forks/JagdeepSinghCeh/cyber-interview-prep?style=for-the-badge)
 ![License](https://img.shields.io/badge/License-Educational-blue?style=for-the-badge)
 
 ---
